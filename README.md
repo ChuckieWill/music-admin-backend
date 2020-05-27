@@ -20,4 +20,7 @@ const APPSECRET = '微信小程序的密钥'
 ```js
 const ENV = '微信小程序的云环境ID'
 ```
-
+* 运行
+```js
+node app.js
+```
