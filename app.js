@@ -5,7 +5,7 @@ const router = new Router()
 const cors = require('koa2-cors')
 const koaBody = require('koa-body')
 //云开发环境
-const ENV = 'test-8h1rt'
+const ENV = ''
 
 //解决跨域问题
 app.use(cors({
