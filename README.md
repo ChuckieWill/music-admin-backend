@@ -1,6 +1,6 @@
 # music-admin-backend
 * 开发环境：`node`
-* 框架开发: `koa`
+* 开发框架: `koa`
 * 技术：
   * `koa-router`
   * `request-promise`
